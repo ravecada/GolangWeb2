@@ -1,0 +1,15 @@
+{
+	"ImportPath": "awesomeProject",
+	"GoVersion": "go1.11",
+	"GodepVersion": "v80",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/russross/blackfriday",
+			"Comment": "v1.5.2",
+			"Rev": "05f3235734ad95d0016f6a23902f06461fcf567a"
+		}
+	]
+}
